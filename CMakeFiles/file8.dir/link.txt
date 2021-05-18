@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libfile8.a  CMakeFiles/file8.dir/insert.cpp.o
+/usr/bin/ranlib lib/libfile8.a

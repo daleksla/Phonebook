@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libfile4.a  CMakeFiles/file4.dir/getPerson.cpp.o
+/usr/bin/ranlib lib/libfile4.a

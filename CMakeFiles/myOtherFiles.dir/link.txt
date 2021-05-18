@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libmyOtherFiles.a  CMakeFiles/myOtherFiles.dir/addOrganisation.cpp.o CMakeFiles/myOtherFiles.dir/addPerson.cpp.o CMakeFiles/myOtherFiles.dir/getOrganisation.cpp.o CMakeFiles/myOtherFiles.dir/getPerson.cpp.o CMakeFiles/myOtherFiles.dir/getOccupation.cpp.o CMakeFiles/myOtherFiles.dir/data.cpp.o CMakeFiles/myOtherFiles.dir/insert.cpp.o
+/usr/bin/ranlib lib/libmyOtherFiles.a

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/codio/workspace/Surveillance/getOccupation.cpp
+occupation.hpp
+/home/codio/workspace/Surveillance/occupation.hpp
+string
+-
+libsqlite.hpp
+/home/codio/workspace/Surveillance/libsqlite.hpp
+
+/home/codio/workspace/Surveillance/libsqlite.hpp
+sqlite3.h
+-
+string
+-
+vector
+-
+exception
+-
+memory
+-
+
+/home/codio/workspace/Surveillance/occupation.hpp
+string
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libfile6.a  CMakeFiles/file6.dir/data.cpp.o
+/usr/bin/ranlib lib/libfile6.a

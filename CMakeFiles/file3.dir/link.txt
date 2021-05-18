@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libfile3.a  CMakeFiles/file3.dir/getOrganisation.cpp.o
+/usr/bin/ranlib lib/libfile3.a

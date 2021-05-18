@@ -1,0 +1,1 @@
+/usr/bin/c++    -pthread --std=c++14 -lsqlite3 -lpython3.4m -lpython3.7m   CMakeFiles/sourcev3.dir/source.cpp.o  -o sourcev3 -rdynamic lib/libmyOtherFiles.a -lsqlite3 -lpython2.7 -lpython3.4m -lpython3.7m 

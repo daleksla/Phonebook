@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libfile5.a  CMakeFiles/file5.dir/getOccupation.cpp.o
+/usr/bin/ranlib lib/libfile5.a

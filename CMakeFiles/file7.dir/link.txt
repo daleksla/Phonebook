@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libfile7.a  CMakeFiles/file7.dir/display.cpp.o
+/usr/bin/ranlib lib/libfile7.a

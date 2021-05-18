@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libfile1.a  CMakeFiles/file1.dir/addOrganisation.cpp.o CMakeFiles/file1.dir/addPerson.cpp.o CMakeFiles/file1.dir/getOrganisation.cpp.o CMakeFiles/file1.dir/getPerson.cpp.o CMakeFiles/file1.dir/getOccupation.cpp.o CMakeFiles/file1.dir/data.cpp.o CMakeFiles/file1.dir/display.cpp.o CMakeFiles/file1.dir/insert.cpp.o
+/usr/bin/ranlib lib/libfile1.a
